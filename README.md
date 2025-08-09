@@ -5,46 +5,83 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Attack on Snacks]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [A S SOBHRAJ] - [GEC Srekrishnapuram]
+- Member 2: [UVAIS J] - [GEC Srekrishnapuram]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Thatukkada Mood Scanner is a quirky, Kerala-themed web app that detects your mood from a selfie using AI-powered face and emotion recognition. Based on your vibe, it serves up Text-To-Speech(TTsModel) over-the-top snack horoscopes, reincarnation predictions, and even dramatic snack death prophecies — all wrapped in a nostalgic thattukada aesthetic.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[People are walking around tragically unaware of what snack their mood truly embodies — a crisis in the making. Without proper snack-based prophecies, humanity risks eating the wrong vada at the wrong time, misinterpreting emotional chaya signals, and completely missing out on their spiritually destined thattukada fate. We’re here to fix the world’s most pointless, yet deeply urgent, snack–emotion alignment crisis.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We built Thatukkada Mood Scanner, the only app brave enough to combine cutting-edge AI emotion detection with completely unscientific snack prophecies. Using face detection and emotion analysis, our virtual thattukada legends — Rajettan and Shankaran Ammavan — judge your face harder than your auntie at a wedding. Then, with the wisdom of a thousand banana fritters, we deliver your Snack Horoscope, Snack Reincarnation, and Snack Death Prediction — all accompanied by overly dramatic TTS narration, tacky animations, and background music that feels like a tea shop in 1998.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [JavaScript (ES6+), HTML5, CSS3]
+- [React.js, Tailwind CSS, DaisyUI]
+- [face-api.js (face detection), Hugging Face Transformers (emotion detection), GSAP (animations), Howler.js (audio playback), Typewriter-effect (dramatic text reveal)]
+- [Vite (build tool), Git/GitHub (version control), VS Code (development), JSON-based content mapping for snack dialogues]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
-For Software:
+For Software: 
 # Installation
-[commands]
+[
+# Install backend dependencies
+cd backend
+npm install
+# Install frontend dependencies
+cd Frontend
+npm install]
 
 # Run
-[commands]
+[
+# Start backend server
+cd backend
+npm start
+
+# Start frontend server (in a new terminal)
+cd frontend
+npm start]
 
 ### Project Documentation
-For Software:
+For Software: Frontend
+Technology
+React.js — UI and component architecture
+
+Bootstrap — Responsive styling and layout
+
+TensorFlow.js or Browser APIs — client-side face detection/emotion analysis
+
+Fetch/Axios — API calls to backend endpoints
+
+Main Components
+MoodScanner — Captures webcam feed, detects emotion, triggers snack & horoscope display
+
+SnackRecommendation — Displays snack matched to detected mood with description
+
+SnackHoroscope — Shows fun horoscope text for the snack/mood
+
+SnackReincarnation — Shows reincarnation story text
+
+SnackDeathPrediction — Shows funny death prediction text
+
+Backend
+Technology
+Node.js + Express.js — Lightweight REST API server
+
+In-memory JSON files — Data source for snacks, horoscopes, reincarnation, death predictions
+
+Face Detection & Emotion Recognition — Implemented via TensorFlow.js backend or third-party API integration 
+
+
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)

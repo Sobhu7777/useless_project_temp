@@ -40,12 +40,15 @@ export default function Intro() {
             transition={{ delay: 0.2, duration: 0.8 }}
           >
             <h1 className="text-5xl font-bold text-primary-content">
-              Street Flavors, AI-Powered
+              Nadan Food AI powered
             </h1>
             <p className="py-6 max-w-lg">
-              Capture your food photo & let our AI guess your dish — Kerala
-              style! From crispy porottas to spicy beef fry, we bring
-              street-food magic to your screen.
+              Mone, you know how it is. You stand by the thatukada counter, and
+              the chettan just knows what to give you. We've got that same vibe,
+              but with kurach tech. Give us a quick click, and our scanner
+              will find the snack that's been waiting for you. From kappa
+              biriyani to mandi, we've got your mood sorted. It's the thatukada
+              experience, machane, but in your hand!
             </p>
             <Link to="/home" className="btn btn-secondary">
               Predict My Food
@@ -101,8 +104,6 @@ export default function Intro() {
           ))}
         </div>
       </motion.section>
-
-
     </div>
   );
 }
