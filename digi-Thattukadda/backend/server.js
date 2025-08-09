@@ -52,7 +52,7 @@ app.post("/generate-tts", async (req, res) => {
 
     const response = await groq.audio.speech.create({
       model: "playai-tts",
-      voice: "Fritz-PlayAI",
+      voice: "Quinn-PlayAI",
       input: promptText,
       response_format: "wav",
     });
