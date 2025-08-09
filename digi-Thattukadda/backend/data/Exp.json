@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "dialogue_001",
+    "mood": "happy",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Your smile is a hit! You deserve hot porotta with some chicken."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "My data analysis suggests that this is a fleeting happiness. A tiny pazhampori is sufficient. Don't waste energy."
+    },
+    "food_suggestion": "Porotta and Chicken Curry"
+  },
+  {
+    "id": "dialogue_002",
+    "mood": "sad",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Why the long face, son? Two parotta and beef fry will fix that sadness."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "According to my psychological profile, sadness is due to a lack of philosophical clarity. A strong, black kattan chaya is the only cure."
+    },
+    "food_suggestion": "Two Parotta and Beef Fry"
+  },
+  {
+    "id": "dialogue_003",
+    "mood": "angry",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Looks like you're about to explode! Have a biryani. It’s too good to be angry about."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The data points to a misdiagnosed emotion. It's not anger, it's just a sudden hunger for kappa biriyani. Logical, isn't it?"
+    },
+    "food_suggestion": "Biriyani"
+  },
+  {
+    "id": "dialogue_004",
+    "mood": "surprised",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Wow, a surprise! A masaladosa should be a good follow-up."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Surprise is a fleeting emotion. For a more stable experience, I recommend appam and stew."
+    },
+    "food_suggestion": "Masaladosa"
+  },
+  {
+    "id": "dialogue_005",
+    "mood": "neutral",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "You look completely blank. Get a pazhampori to add some flavor to your life."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "This neutrality is a dangerous illusion. A good chicken curry will bring you to your senses."
+    },
+    "food_suggestion": "Pazhampori"
+  },
+  {
+    "id": "dialogue_006",
+    "mood": "disgusted",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "You seem disgusted. A hot tea should be enough to clean your palate."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "My data suggests the disgust is not from food, but from a bad social media experience. Putta and kadala curry will cleanse your soul."
+    },
+    "food_suggestion": "Puttu and Kadala Curry"
+  },
+  {
+    "id": "dialogue_007",
+    "mood": "fear",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Don't be scared! A spicy chicken curry will give you courage."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Fear causes a feeling of emptiness in the stomach. A sweet unniyappam will fill that void."
+    },
+    "food_suggestion": "Chicken Curry"
+  },
+  {
+    "id": "dialogue_008",
+    "mood": "happy",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Happy, happy, happy! You deserve some kappa and meen curry."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "This happiness is an anomaly. A black kattan chaya will reset your emotional equilibrium."
+    },
+    "food_suggestion": "Kappa and Meen Curry"
+  },
+  {
+    "id": "dialogue_009",
+    "mood": "sad",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Dude, cheer up! A couple of porotta with some chicken curry will make you forget everything."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Emotional distress is a temporary state. A strong, hot kattan chaya is a scientifically proven temporary solution."
+    },
+    "food_suggestion": "Porotta and Chicken Curry"
+  },
+  {
+    "id": "dialogue_010",
+    "mood": "angry",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Cool down, man! A masaladosa will make you a happy person again."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The anger is a byproduct of low energy levels. A dosa and chutney will calm your nerves and recharge your system."
+    },
+    "food_suggestion": "Masaladosa"
+  },
+  {
+    "id": "dialogue_011",
+    "mood": "surprised",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Your face is full of wonder! Pathiri with egg curry will complete the day."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "That's a very short-lived emotion. Appam and stew will give you a long-lasting, memorable experience."
+    },
+    "food_suggestion": "Pathiri and Egg Curry"
+  },
+  {
+    "id": "dialogue_012",
+    "mood": "neutral",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "A blank canvas. Dosa with sambar it is."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Data suggests that a blank expression is a sign of deep thought. That calls for a thought-provoking kappa biriyani."
+    },
+    "food_suggestion": "Dosa with Sambar"
+  },
+  {
+    "id": "dialogue_013",
+    "mood": "disgusted",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Disgusted? Don't even think about it. Just have a tea."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The disgust is not aimed at me or my food. That's a good thing. Puttu and kadala curry for the win."
+    },
+    "food_suggestion": "Tea"
+  },
+  {
+    "id": "dialogue_014",
+    "mood": "fear",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Don't be afraid! A fish curry and rice will comfort you."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Fear creates a vacuum in the stomach. Idli and sambar will fill it right up."
+    },
+    "food_suggestion": "Fish Curry and Rice"
+  },
+  {
+    "id": "dialogue_015",
+    "mood": "happy",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "So happy! A sweet unniyappam is the perfect treat."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "My analysis indicates that your happiness is a fleeting illusion. A kattan chaya will bring you back to reality."
+    },
+    "food_suggestion": "Unniyappam"
+  },
+  {
+    "id": "dialogue_016",
+    "mood": "sad",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Sadness is a temporary emotion. Two porotta and chicken curry will fix it."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Sadness needs a moment of silence. A hot kattan chaya will help you think."
+    },
+    "food_suggestion": "Porotta and Chicken Curry"
+  },
+  {
+    "id": "dialogue_017",
+    "mood": "angry",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Your face is burning! A masaladosa will cool you down."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The anger is a sign of low blood sugar. Dosa and chutney will fix that."
+    },
+    "food_suggestion": "Masaladosa"
+  },
+  {
+    "id": "dialogue_018",
+    "mood": "surprised",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "That's a nice surprise! Pathiri and egg curry will keep it going."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Surprise is an unstable emotion. A stable dosa and sambar will keep you grounded."
+    },
+    "food_suggestion": "Pathiri and Egg Curry"
+  },
+  {
+    "id": "dialogue_019",
+    "mood": "neutral",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "A blank face. Dosa it is."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "This neutrality is a deep emotional state. A complex kappa biriyani is the only solution."
+    },
+    "food_suggestion": "Dosa"
+  },
+  {
+    "id": "dialogue_020",
+    "mood": "disgusted",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Disgusted? Don't worry. A hot tea will make it all better."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The disgust is not with the food. Puttu and kadala curry will solve the problem."
+    },
+    "food_suggestion": "Tea"
+  },
+  {
+    "id": "dialogue_021",
+    "mood": "fear",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "You look scared! A fish curry and rice will comfort you."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Fear creates a sense of emptiness. Idli and sambar will fill it."
+    },
+    "food_suggestion": "Fish Curry and Rice"
+  },
+  {
+    "id": "dialogue_022",
+    "mood": "happy",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "So happy! A sweet unniyappam is the perfect treat."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "My analysis indicates that your happiness is a fleeting illusion. A kattan chaya will bring you back to reality."
+    },
+    "food_suggestion": "Unniyappam"
+  },
+  {
+    "id": "dialogue_023",
+    "mood": "sad",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Sadness is a temporary emotion. Two porotta and chicken curry will fix it."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Sadness needs a moment of silence. A hot kattan chaya will help you think."
+    },
+    "food_suggestion": "Porotta and Chicken Curry"
+  },
+  {
+    "id": "dialogue_024",
+    "mood": "angry",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Your face is burning! A masaladosa will cool you down."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The anger is a sign of low blood sugar. Dosa and chutney will fix that."
+    },
+    "food_suggestion": "Masaladosa"
+  },
+  {
+    "id": "dialogue_025",
+    "mood": "surprised",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "That's a nice surprise! Pathiri and egg curry will keep it going."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Surprise is an unstable emotion. A stable dosa and sambar will keep you grounded."
+    },
+    "food_suggestion": "Pathiri and Egg Curry"
+  },
+  {
+    "id": "dialogue_026",
+    "mood": "neutral",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "A blank face. Dosa it is."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "This neutrality is a deep emotional state. A complex kappa biriyani is the only solution."
+    },
+    "food_suggestion": "Dosa"
+  },
+  {
+    "id": "dialogue_027",
+    "mood": "disgusted",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Disgusted? Don't worry. A hot tea will make it all better."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The disgust is not with the food. Puttu and kadala curry will solve the problem."
+    },
+    "food_suggestion": "Tea"
+  },
+  {
+    "id": "dialogue_028",
+    "mood": "fear",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "You look scared! A fish curry and rice will comfort you."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Fear creates a sense of emptiness. Idli and sambar will fill it."
+    },
+    "food_suggestion": "Fish Curry and Rice"
+  },
+  {
+    "id": "dialogue_029",
+    "mood": "happy",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "So happy! A sweet unniyappam is the perfect treat."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "My analysis indicates that your happiness is a fleeting illusion. A kattan chaya will bring you back to reality."
+    },
+    "food_suggestion": "Unniyappam"
+  },
+  {
+    "id": "dialogue_030",
+    "mood": "sad",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Sadness is a temporary emotion. Two porotta and chicken curry will fix it."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Sadness needs a moment of silence. A hot kattan chaya will help you think."
+    },
+    "food_suggestion": "Porotta and Chicken Curry"
+  },
+  {
+    "id": "dialogue_031",
+    "mood": "angry",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Your face is burning! A masaladosa will cool you down."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The anger is a sign of low blood sugar. Dosa and chutney will fix that."
+    },
+    "food_suggestion": "Masaladosa"
+  },
+  {
+    "id": "dialogue_032",
+    "mood": "surprised",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "That's a nice surprise! Pathiri and egg curry will keep it going."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Surprise is an unstable emotion. A stable dosa and sambar will keep you grounded."
+    },
+    "food_suggestion": "Pathiri and Egg Curry"
+  },
+  {
+    "id": "dialogue_033",
+    "mood": "neutral",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "A blank face. Dosa it is."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "This neutrality is a deep emotional state. A complex kappa biriyani is the only solution."
+    },
+    "food_suggestion": "Dosa"
+  },
+  {
+    "id": "dialogue_034",
+    "mood": "disgusted",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Disgusted? Don't worry. A hot tea will make it all better."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The disgust is not with the food. Puttu and kadala curry will solve the problem."
+    },
+    "food_suggestion": "Tea"
+  },
+  {
+    "id": "dialogue_035",
+    "mood": "fear",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "You look scared! A fish curry and rice will comfort you."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Fear creates a sense of emptiness. Idli and sambar will fill it."
+    },
+    "food_suggestion": "Fish Curry and Rice"
+  },
+  {
+    "id": "dialogue_036",
+    "mood": "happy",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "So happy! A sweet unniyappam is the perfect treat."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "My analysis indicates that your happiness is a fleeting illusion. A kattan chaya will bring you back to reality."
+    },
+    "food_suggestion": "Unniyappam"
+  },
+  {
+    "id": "dialogue_037",
+    "mood": "sad",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Sadness is a temporary emotion. Two porotta and chicken curry will fix it."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Sadness needs a moment of silence. A hot kattan chaya will help you think."
+    },
+    "food_suggestion": "Porotta and Chicken Curry"
+  },
+  {
+    "id": "dialogue_038",
+    "mood": "angry",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Your face is burning! A masaladosa will cool you down."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The anger is a sign of low blood sugar. Dosa and chutney will fix that."
+    },
+    "food_suggestion": "Masaladosa"
+  },
+  {
+    "id": "dialogue_039",
+    "mood": "surprised",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "That's a nice surprise! Pathiri and egg curry will keep it going."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Surprise is an unstable emotion. A stable dosa and sambar will keep you grounded."
+    },
+    "food_suggestion": "Pathiri and Egg Curry"
+  },
+  {
+    "id": "dialogue_040",
+    "mood": "neutral",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "A blank face. Dosa it is."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "This neutrality is a deep emotional state. A complex kappa biriyani is the only solution."
+    },
+    "food_suggestion": "Dosa"
+  },
+  {
+    "id": "dialogue_041",
+    "mood": "disgusted",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Disgusted? Don't worry. A hot tea will make it all better."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The disgust is not with the food. Puttu and kadala curry will solve the problem."
+    },
+    "food_suggestion": "Tea"
+  },
+  {
+    "id": "dialogue_042",
+    "mood": "fear",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "You look scared! A fish curry and rice will comfort you."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Fear creates a sense of emptiness. Idli and sambar will fill it."
+    },
+    "food_suggestion": "Fish Curry and Rice"
+  },
+  {
+    "id": "dialogue_043",
+    "mood": "happy",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "So happy! A sweet unniyappam is the perfect treat."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "My analysis indicates that your happiness is a fleeting illusion. A kattan chaya will bring you back to reality."
+    },
+    "food_suggestion": "Unniyappam"
+  },
+  {
+    "id": "dialogue_044",
+    "mood": "sad",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Sadness is a temporary emotion. Two porotta and chicken curry will fix it."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Sadness needs a moment of silence. A hot kattan chaya will help you think."
+    },
+    "food_suggestion": "Porotta and Chicken Curry"
+  },
+  {
+    "id": "dialogue_045",
+    "mood": "angry",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Your face is burning! A masaladosa will cool you down."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The anger is a sign of low blood sugar. Dosa and chutney will fix that."
+    },
+    "food_suggestion": "Masaladosa"
+  },
+  {
+    "id": "dialogue_046",
+    "mood": "surprised",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "That's a nice surprise! Pathiri and egg curry will keep it going."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Surprise is an unstable emotion. A stable dosa and sambar will keep you grounded."
+    },
+    "food_suggestion": "Pathiri and Egg Curry"
+  },
+  {
+    "id": "dialogue_047",
+    "mood": "neutral",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "A blank face. Dosa it is."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "This neutrality is a deep emotional state. A complex kappa biriyani is the only solution."
+    },
+    "food_suggestion": "Dosa"
+  },
+  {
+    "id": "dialogue_048",
+    "mood": "disgusted",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Disgusted? Don't worry. A hot tea will make it all better."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The disgust is not with the food. Puttu and kadala curry will solve the problem."
+    },
+    "food_suggestion": "Tea"
+  },
+  {
+    "id": "dialogue_049",
+    "mood": "fear",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "You look scared! A fish curry and rice will comfort you."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Fear creates a sense of emptiness. Idli and sambar will fill it."
+    },
+    "food_suggestion": "Fish Curry and Rice"
+  },
+  {
+    "id": "dialogue_050",
+    "mood": "happy",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "So happy! A sweet unniyappam is the perfect treat."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "My analysis indicates that your happiness is a fleeting illusion. A kattan chaya will bring you back to reality."
+    },
+    "food_suggestion": "Unniyappam"
+  },
+  {
+    "id": "dialogue_051",
+    "mood": "sad",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Sadness is a temporary emotion. Two porotta and chicken curry will fix it."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Sadness needs a moment of silence. A hot kattan chaya will help you think."
+    },
+    "food_suggestion": "Porotta and Chicken Curry"
+  },
+  {
+    "id": "dialogue_052",
+    "mood": "angry",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Your face is burning! A masaladosa will cool you down."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The anger is a sign of low blood sugar. Dosa and chutney will fix that."
+    },
+    "food_suggestion": "Masaladosa"
+  },
+  {
+    "id": "dialogue_053",
+    "mood": "surprised",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "That's a nice surprise! Pathiri and egg curry will keep it going."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Surprise is an unstable emotion. A stable dosa and sambar will keep you grounded."
+    },
+    "food_suggestion": "Pathiri and Egg Curry"
+  },
+  {
+    "id": "dialogue_054",
+    "mood": "neutral",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "A blank face. Dosa it is."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "This neutrality is a deep emotional state. A complex kappa biriyani is the only solution."
+    },
+    "food_suggestion": "Dosa"
+  },
+  {
+    "id": "dialogue_055",
+    "mood": "disgusted",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Disgusted? Don't worry. A hot tea will make it all better."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The disgust is not with the food. Puttu and kadala curry will solve the problem."
+    },
+    "food_suggestion": "Tea"
+  },
+  {
+    "id": "dialogue_056",
+    "mood": "fear",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "You look scared! A fish curry and rice will comfort you."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Fear creates a sense of emptiness. Idli and sambar will fill it."
+    },
+    "food_suggestion": "Fish Curry and Rice"
+  },
+  {
+    "id": "dialogue_057",
+    "mood": "happy",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "So happy! A sweet unniyappam is the perfect treat."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "My analysis indicates that your happiness is a fleeting illusion. A kattan chaya will bring you back to reality."
+    },
+    "food_suggestion": "Unniyappam"
+  },
+  {
+    "id": "dialogue_058",
+    "mood": "sad",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Sadness is a temporary emotion. Two porotta and chicken curry will fix it."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Sadness needs a moment of silence. A hot kattan chaya will help you think."
+    },
+    "food_suggestion": "Porotta and Chicken Curry"
+  },
+  {
+    "id": "dialogue_059",
+    "mood": "angry",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Your face is burning! A masaladosa will cool you down."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The anger is a sign of low blood sugar. Dosa and chutney will fix that."
+    },
+    "food_suggestion": "Masaladosa"
+  },
+  {
+    "id": "dialogue_060",
+    "mood": "surprised",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "That's a nice surprise! Pathiri and egg curry will keep it going."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Surprise is an unstable emotion. A stable dosa and sambar will keep you grounded."
+    },
+    "food_suggestion": "Pathiri and Egg Curry"
+  },
+  {
+    "id": "dialogue_061",
+    "mood": "neutral",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "A blank face. Dosa it is."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "This neutrality is a deep emotional state. A complex kappa biriyani is the only solution."
+    },
+    "food_suggestion": "Dosa"
+  },
+  {
+    "id": "dialogue_062",
+    "mood": "disgusted",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Disgusted? Don't worry. A hot tea will make it all better."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The disgust is not with the food. Puttu and kadala curry will solve the problem."
+    },
+    "food_suggestion": "Tea"
+  },
+  {
+    "id": "dialogue_063",
+    "mood": "fear",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "You look scared! A fish curry and rice will comfort you."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Fear creates a sense of emptiness. Idli and sambar will fill it."
+    },
+    "food_suggestion": "Fish Curry and Rice"
+  },
+  {
+    "id": "dialogue_064",
+    "mood": "happy",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "So happy! A sweet unniyappam is the perfect treat."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "My analysis indicates that your happiness is a fleeting illusion. A kattan chaya will bring you back to reality."
+    },
+    "food_suggestion": "Unniyappam"
+  },
+  {
+    "id": "dialogue_065",
+    "mood": "sad",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Sadness is a temporary emotion. Two porotta and chicken curry will fix it."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Sadness needs a moment of silence. A hot kattan chaya will help you think."
+    },
+    "food_suggestion": "Porotta and Chicken Curry"
+  },
+  {
+    "id": "dialogue_066",
+    "mood": "angry",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Your face is burning! A masaladosa will cool you down."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The anger is a sign of low blood sugar. Dosa and chutney will fix that."
+    },
+    "food_suggestion": "Masaladosa"
+  },
+  {
+    "id": "dialogue_067",
+    "mood": "surprised",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "That's a nice surprise! Pathiri and egg curry will keep it going."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Surprise is an unstable emotion. A stable dosa and sambar will keep you grounded."
+    },
+    "food_suggestion": "Pathiri and Egg Curry"
+  },
+  {
+    "id": "dialogue_068",
+    "mood": "neutral",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "A blank face. Dosa it is."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "This neutrality is a deep emotional state. A complex kappa biriyani is the only solution."
+    },
+    "food_suggestion": "Dosa"
+  },
+  {
+    "id": "dialogue_069",
+    "mood": "disgusted",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Disgusted? Don't worry. A hot tea will make it all better."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The disgust is not with the food. Puttu and kadala curry will solve the problem."
+    },
+    "food_suggestion": "Tea"
+  },
+  {
+    "id": "dialogue_070",
+    "mood": "fear",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "You look scared! A fish curry and rice will comfort you."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Fear creates a sense of emptiness. Idli and sambar will fill it."
+    },
+    "food_suggestion": "Fish Curry and Rice"
+  },
+  {
+    "id": "dialogue_071",
+    "mood": "happy",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "So happy! A sweet unniyappam is the perfect treat."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "My analysis indicates that your happiness is a fleeting illusion. A kattan chaya will bring you back to reality."
+    },
+    "food_suggestion": "Unniyappam"
+  },
+  {
+    "id": "dialogue_072",
+    "mood": "sad",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Sadness is a temporary emotion. Two porotta and chicken curry will fix it."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Sadness needs a moment of silence. A hot kattan chaya will help you think."
+    },
+    "food_suggestion": "Porotta and Chicken Curry"
+  },
+  {
+    "id": "dialogue_073",
+    "mood": "angry",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Your face is burning! A masaladosa will cool you down."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The anger is a sign of low blood sugar. Dosa and chutney will fix that."
+    },
+    "food_suggestion": "Masaladosa"
+  },
+  {
+    "id": "dialogue_074",
+    "mood": "surprised",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "That's a nice surprise! Pathiri and egg curry will keep it going."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Surprise is an unstable emotion. A stable dosa and sambar will keep you grounded."
+    },
+    "food_suggestion": "Pathiri and Egg Curry"
+  },
+  {
+    "id": "dialogue_075",
+    "mood": "neutral",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "A blank face. Dosa it is."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "This neutrality is a deep emotional state. A complex kappa biriyani is the only solution."
+    },
+    "food_suggestion": "Dosa"
+  },
+  {
+    "id": "dialogue_076",
+    "mood": "disgusted",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Disgusted? Don't worry. A hot tea will make it all better."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The disgust is not with the food. Puttu and kadala curry will solve the problem."
+    },
+    "food_suggestion": "Tea"
+  },
+  {
+    "id": "dialogue_077",
+    "mood": "fear",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "You look scared! A fish curry and rice will comfort you."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Fear creates a sense of emptiness. Idli and sambar will fill it."
+    },
+    "food_suggestion": "Fish Curry and Rice"
+  },
+  {
+    "id": "dialogue_078",
+    "mood": "happy",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "So happy! A sweet unniyappam is the perfect treat."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "My analysis indicates that your happiness is a fleeting illusion. A kattan chaya will bring you back to reality."
+    },
+    "food_suggestion": "Unniyappam"
+  },
+  {
+    "id": "dialogue_079",
+    "mood": "sad",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Sadness is a temporary emotion. Two porotta and chicken curry will fix it."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Sadness needs a moment of silence. A hot kattan chaya will help you think."
+    },
+    "food_suggestion": "Porotta and Chicken Curry"
+  },
+  {
+    "id": "dialogue_080",
+    "mood": "angry",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Your face is burning! A masaladosa will cool you down."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The anger is a sign of low blood sugar. Dosa and chutney will fix that."
+    },
+    "food_suggestion": "Masaladosa"
+  },
+  {
+    "id": "dialogue_081",
+    "mood": "surprised",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "That's a nice surprise! Pathiri and egg curry will keep it going."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Surprise is an unstable emotion. A stable dosa and sambar will keep you grounded."
+    },
+    "food_suggestion": "Pathiri and Egg Curry"
+  },
+  {
+    "id": "dialogue_082",
+    "mood": "neutral",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "A blank face. Dosa it is."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "This neutrality is a deep emotional state. A complex kappa biriyani is the only solution."
+    },
+    "food_suggestion": "Dosa"
+  },
+  {
+    "id": "dialogue_083",
+    "mood": "disgusted",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Disgusted? Don't worry. A hot tea will make it all better."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The disgust is not with the food. Puttu and kadala curry will solve the problem."
+    },
+    "food_suggestion": "Tea"
+  },
+  {
+    "id": "dialogue_084",
+    "mood": "fear",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "You look scared! A fish curry and rice will comfort you."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Fear creates a sense of emptiness. Idli and sambar will fill it."
+    },
+    "food_suggestion": "Fish Curry and Rice"
+  },
+  {
+    "id": "dialogue_085",
+    "mood": "happy",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "So happy! A sweet unniyappam is the perfect treat."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "My analysis indicates that your happiness is a fleeting illusion. A kattan chaya will bring you back to reality."
+    },
+    "food_suggestion": "Unniyappam"
+  },
+  {
+    "id": "dialogue_086",
+    "mood": "sad",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Sadness is a temporary emotion. Two porotta and chicken curry will fix it."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Sadness needs a moment of silence. A hot kattan chaya will help you think."
+    },
+    "food_suggestion": "Porotta and Chicken Curry"
+  },
+  {
+    "id": "dialogue_087",
+    "mood": "angry",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Your face is burning! A masaladosa will cool you down."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The anger is a sign of low blood sugar. Dosa and chutney will fix that."
+    },
+    "food_suggestion": "Masaladosa"
+  },
+  {
+    "id": "dialogue_088",
+    "mood": "surprised",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "That's a nice surprise! Pathiri and egg curry will keep it going."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Surprise is an unstable emotion. A stable dosa and sambar will keep you grounded."
+    },
+    "food_suggestion": "Pathiri and Egg Curry"
+  },
+  {
+    "id": "dialogue_089",
+    "mood": "neutral",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "A blank face. Dosa it is."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "This neutrality is a deep emotional state. A complex kappa biriyani is the only solution."
+    },
+    "food_suggestion": "Dosa"
+  },
+  {
+    "id": "dialogue_090",
+    "mood": "disgusted",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Disgusted? Don't worry. A hot tea will make it all better."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The disgust is not with the food. Puttu and kadala curry will solve the problem."
+    },
+    "food_suggestion": "Tea"
+  },
+  {
+    "id": "dialogue_091",
+    "mood": "fear",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "You look scared! A fish curry and rice will comfort you."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Fear creates a sense of emptiness. Idli and sambar will fill it."
+    },
+    "food_suggestion": "Fish Curry and Rice"
+  },
+  {
+    "id": "dialogue_092",
+    "mood": "happy",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "So happy! A sweet unniyappam is the perfect treat."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "My analysis indicates that your happiness is a fleeting illusion. A kattan chaya will bring you back to reality."
+    },
+    "food_suggestion": "Unniyappam"
+  },
+  {
+    "id": "dialogue_093",
+    "mood": "sad",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Sadness is a temporary emotion. Two porotta and chicken curry will fix it."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Sadness needs a moment of silence. A hot kattan chaya will help you think."
+    },
+    "food_suggestion": "Porotta and Chicken Curry"
+  },
+  {
+    "id": "dialogue_094",
+    "mood": "angry",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Your face is burning! A masaladosa will cool you down."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The anger is a sign of low blood sugar. Dosa and chutney will fix that."
+    },
+    "food_suggestion": "Masaladosa"
+  },
+  {
+    "id": "dialogue_095",
+    "mood": "surprised",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "That's a nice surprise! Pathiri and egg curry will keep it going."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Surprise is an unstable emotion. A stable dosa and sambar will keep you grounded."
+    },
+    "food_suggestion": "Pathiri and Egg Curry"
+  },
+  {
+    "id": "dialogue_096",
+    "mood": "neutral",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "A blank face. Dosa it is."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "This neutrality is a deep emotional state. A complex kappa biriyani is the only solution."
+    },
+    "food_suggestion": "Dosa"
+  },
+  {
+    "id": "dialogue_097",
+    "mood": "disgusted",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Disgusted? Don't worry. A hot tea will make it all better."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "The disgust is not with the food. Puttu and kadala curry will solve the problem."
+    },
+    "food_suggestion": "Tea"
+  },
+  {
+    "id": "dialogue_098",
+    "mood": "fear",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "You look scared! A fish curry and rice will comfort you."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Fear creates a sense of emptiness. Idli and sambar will fill it."
+    },
+    "food_suggestion": "Fish Curry and Rice"
+  },
+  {
+    "id": "dialogue_099",
+    "mood": "happy",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "So happy! A sweet unniyappam is the perfect treat."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "My analysis indicates that your happiness is a fleeting illusion. A kattan chaya will bring you back to reality."
+    },
+    "food_suggestion": "Unniyappam"
+  },
+  {
+    "id": "dialogue_100",
+    "mood": "sad",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "Kore",
+      "text": "Sadness is a temporary emotion. Two porotta and chicken curry will fix it."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "Puck",
+      "text": "Sadness needs a moment of silence. A hot kattan chaya will help you think."
+    },
+    "food_suggestion": "Porotta and Chicken Curry"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "dialogue_001",
+    "mood": "happy",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "en-IN-Wavenet-D",
+      "text": "Your smile is a hit! You deserve hot porotta with some chicken."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "en-IN-Wavenet-A",
+      "text": "My data analysis suggests that this is a fleeting happiness. A tiny pazhampori is sufficient. Don't waste energy."
+    },
+    "food_suggestion": "Porotta and Chicken Curry"
+  },
+  {
+    "id": "dialogue_002",
+    "mood": "sad",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "en-IN-Wavenet-D",
+      "text": "Why the long face, son? Two parotta and beef fry will fix that sadness."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "en-IN-Wavenet-A",
+      "text": "According to my psychological profile, sadness is due to a lack of philosophical clarity. A strong, black kattan chaya is the only cure."
+    },
+    "food_suggestion": "Two Parotta and Beef Fry"
+  },
+  {
+    "id": "dialogue_003",
+    "mood": "angry",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "en-IN-Wavenet-D",
+      "text": "Looks like you're about to explode! Have a biryani. It’s too good to be angry about."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "en-IN-Wavenet-A",
+      "text": "The data points to a misdiagnosed emotion. It's not anger, it's just a sudden hunger for kappa biriyani. Logical, isn't it?"
+    },
+    "food_suggestion": "Biriyani"
+  },
+  {
+    "id": "dialogue_004",
+    "mood": "surprised",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "en-IN-Wavenet-D",
+      "text": "Wow, a surprise! A masaladosa should be a good follow-up."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "en-IN-Wavenet-A",
+      "text": "Surprise is a fleeting emotion. For a more stable experience, I recommend appam and stew."
+    },
+    "food_suggestion": "Masaladosa"
+  },
+  {
+    "id": "dialogue_005",
+    "mood": "neutral",
+    "speakerA": {
+      "name": "Thattukada Karan",
+      "voiceName": "en-IN-Wavenet-D",
+      "text": "You look completely blank. Get a pazhampori to add some flavor to your life."
+    },
+    "speakerB": {
+      "name": "Ammaavan",
+      "voiceName": "en-IN-Wavenet-A",
+      "text": "This neutrality is a dangerous illusion. A good chicken curry will bring you to your senses."
+    },
+    "food_suggestion": "Pazhampori"
+  }
+]

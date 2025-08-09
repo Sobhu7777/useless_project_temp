@@ -1,0 +1,79 @@
+/* Result.css */
+
+.result-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f0f2f5;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.result-card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 40px;
+  text-align: center;
+  max-width: 500px;
+  width: 100%;
+}
+
+.result-header {
+  font-size: 2.5em;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.mood-display {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 20px;
+  border-radius: 8px;
+  color: #fff;
+  margin-bottom: 25px;
+}
+
+.mood-emoji {
+  font-size: 3em;
+  margin-bottom: 10px;
+}
+
+.mood-title {
+  font-size: 1.8em;
+  font-weight: bold;
+}
+
+.mood-message {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 25px;
+  line-height: 1.5;
+}
+
+.motivation-text {
+  font-size: 1.1em;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.snack-dropdown-container {
+  width: 100%;
+}
+
+.snack-dropdown {
+  width: 100%;
+  padding: 12px 15px;
+  font-size: 1em;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  color: #333;
+  cursor: pointer;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}

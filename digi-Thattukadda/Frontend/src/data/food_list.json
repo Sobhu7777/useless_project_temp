@@ -1,0 +1,232 @@
+{
+  "happy": {
+    "snacks": ["Pazham Pori", "Kattan Chaya", "Sugar Appam", "Sambhar Vada"],
+    "descriptions": [
+      "Golden, greasy, and gives you the confidence of a local politician on inauguration day.",
+      "Brewed stronger than your last relationship  and twice as bitter.",
+      "Sweet and soft like that one ex who texts only on Onam.",
+      "Crunchy on the outside, emotionally chaotic within  just like your mood swings."
+    ],
+    "snackHoroscope": [
+      "Your stars are drenched in coconut oil. Today, you will find clarity at the bottom of a tea glass while gossiping about your neighbors new Scorpio.",
+      "A dramatic shift in planetary parippu suggests a fried future. Dip into life's chutneys boldly  even the watery ones.",
+      "Venus is in your snack house  it demands indulgence. Ignore responsibilities and focus entirely on how crispy your vibes are.",
+      "Saturn may test your patience today, especially if the pazham pori takes too long. Breathe. Or bite someone.",
+      "A celestial chenda is beating inside your heart today  match its rhythm with 4 consecutive sambhar vadas and scream into the void."
+    ],
+    "snackReincarnation": [
+      "In a previous birth, you were the last pazham pori left on the counter  slightly burnt, half-loved, entirely misunderstood.",
+      "You were once a gossiping appam from Palakkad who got reincarnated after being thrown away for being 'too soft in the middle'.",
+      "Your soul still carries trauma from being a chai glass refilled without thanks. No closure. Just stains.",
+      "You were a vada with a hole so empty, even loneliness felt uncomfortable in it.",
+      "In the snack realm, you ruled as the Tea Stall Prince of Thrissur, until a rogue banana fritter betrayed you at sunset."
+    ],
+    "snackDeath": [
+      "You met your end choking on a hot banana fritter while laughing at your own joke. The paramedics were delayed by a tea break.",
+      "Drowned heroically in a vat of sambhar during a failed attempt at deep-frying your anxiety.",
+      "Bit into mandi and found a clove — the betrayal killed you faster than the spice.",
+      "Bit into a steel-hard medu vada and ascended instantly to snack heaven. RIP molar.",
+      "Collapsed after consuming 13 cups of kattan chaya in under 10 minutes  legends say you still twitch in the aroma."
+    ]
+  },
+  "sad": {
+    "snacks": ["Soft Dosa", "Overcooked Idli", "Cold Sambhar", "Half Tea"],
+    "descriptions": [
+      "Soft and limp, like your enthusiasm for social interaction.",
+      "Soaked in regret and steamed in disappointment.",
+      "Looks comforting but tastes like unresolved feelings.",
+      "Just like your ambition  half gone, fully confused."
+    ],
+    "snackHoroscope": [
+      "The moon has abandoned you like the last idli on a wedding leaf. Seek solace in leftover chutney today.",
+      "Mercury is stirring your sambhar of sorrow. Dont trust anyone who offers lemon rice.",
+      "Your horoscope was fried but then dropped into water. Expect wet blankets and soggy evenings.",
+      "Stars suggest napping on a banana leaf while listening to rain and eating nothing.",
+      "Youre the hero in a slow-mo sad scene with violin  now take a bite of cold dosa and feel every cell cry."
+    ],
+    "snackReincarnation": [
+      "You were once a hotel chutney bowl  always refilled, never appreciated.",
+      "Your soul floated as steam above sad dosas at railway stations.",
+      "You lived as a tearful tea drop sliding down a foggy glass window.",
+      "Once you were a vada with no crunch  just fluff and sorrow.",
+      "Your past life involved being an abandoned curry spoon at 2AM in a mess hall."
+    ],
+    "snackDeath": [
+      "Fell asleep in a plate of sambhar and never woke up. Some say your spirit still bubbles in it.",
+      "Bit into an idli and choked on your own silence.",
+      "Died waiting for a chutney refill that never came. Pure heartbreak.",
+      "Your final act was sipping half tea while whispering: 'Enthina njan ippo jeevichirikkunne...'",
+      "Collapsed face-first into curd rice while thinking about class 5 heartbreak. Eternal nap."
+    ]
+  },
+  "angry": {
+    "snacks": [
+      "Heavy kuzhi mandi",
+      "Red Chili Bajji",
+      "Burnt Dosa",
+      "Over Fried Vada"
+    ],
+    "descriptions": [
+      "Aromatic, heavy, and storming your tastebuds like a riot in a desert — emotional and extra.",
+      "One bite and youre in a Kalaripayattu match with your own tongue.",
+      "Burnt like your patience and served with zero apologies.",
+      "Overdone and over it  just like you."
+    ],
+    "snackHoroscope": [
+      "You are the last grain of rice under the chicken leg today. Hidden, powerful, and about to cause an existential meltdown.",
+      "A fiery aura surrounds you  channel it into breaking a bajji in half with dramatic flair.",
+      "The stars are literally burning  and so is your dosa. Let it burn.",
+      "Chutney planets are out of alignment  expect confrontation over curry quantities.",
+      "Your horoscope today is one word: SPICY. Accept it. Eat it. Unleash chaos."
+    ],
+    "snackReincarnation": [
+      "You were once a chili that cursed a chef by being too damn strong.",
+      "You once lived as a mandi grain cooked too early and left alone — now reborn with rage issues.",
+      "You were the crackling sound in a dosa warzone. Full-on battlefield snack.",
+      "Lived as a red chutney blob on someones shirt. Died in shame.",
+      "Once a masala vada that refused to soften  out of pure rage."
+    ],
+    "snackDeath": [
+      "Overdosed on chili bajji and exploded emotionally and physically.",
+      "Argued with a parotta. Lost. Fatally folded.",
+      "You screamed 'more spice' and the gods complied. RIP tastebuds. And soul.",
+      "Tried to headbutt a hot dosa pan  went out like a warrior.",
+      "Died while passionately arguing mandi vs. biriyani with a stranger. No one remembers who won."
+    ]
+  },
+  "fear": {
+    "snacks": [
+      "Boiled Tapioca",
+      "Unlabeled Chutney",
+      "Silent Puttu",
+      "Cold Parotta"
+    ],
+    "descriptions": [
+      "Soft, suspicious, and comes with emotional baggage.",
+      "No one knows whats inside, but everyone dips into it anyway.",
+      "Sits quietly on the plate like its seen too much.",
+      "Stiff, mysterious, and possibly planning something."
+    ],
+    "snackHoroscope": [
+      "Your snack stars are whispering. Something ominous stirs in the chutney. Don't trust the third dip.",
+      "The planets have gone quiet. Today, even the puttu looks scared. Proceed with caution.",
+      "A shadowy snack looms in your future  possibly from yesterdays fridge.",
+      "Beware of silent parottas. If they crack, they attack.",
+      "Your energy today is like undercooked tapioca  uncertain and quietly terrifying."
+    ],
+    "snackReincarnation": [
+      "In a past life, you were a leftover kappa that everyone avoided. Now you return cautiously.",
+      "You once lived as a spoon trembling beside a ghostly biriyani. RIP steel soul.",
+      "You were a puttu hiding under a banana leaf. Not for modesty  for protection.",
+      "Lived as chutney that nobody dared to taste. A mystery in a steel bowl.",
+      "You were the unspoken fourth item in a thali. Always there, never discussed."
+    ],
+    "snackDeath": [
+      "Scared yourself to death after mistaking sambhar bubbles for ghosts.",
+      "You slipped into fear-induced paralysis mid-bite and never finished that parotta.",
+      "Choked while whispering your order out of fear. Silence, then chutney.",
+      "Jumped out of fright when your idli moved. Turns out it was a worm. Too late.",
+      "Froze at the sight of a smiling waiter holding extra kappa. You knew what he did."
+    ]
+  },
+  "neutral": {
+    "snacks": ["Plain Rice", "Dry Chapathi", "Watermelon Slice", "Curd"],
+    "descriptions": [
+      "Just rice. No feelings. No comments.",
+      "Folded, flaky, and emotionally unavailable.",
+      "Sweet, pink, and only mildly interesting.",
+      "Cool, calm, and totally unbothered."
+    ],
+    "snackHoroscope": [
+      "The stars are like your thali today  no drama. Just rice and a spoon of peace.",
+      "Nothing exciting in your zodiac plate. Good time to overthink life while eating plain curd.",
+      "Your planetary vibes are mid. Not bad, not good  just like your chapathi.",
+      "Rice says rest. Dont stir the sambhar today. Let it simmer alone.",
+      "Youll have a watermelon moment today: fresh, wet, and slightly pointless."
+    ],
+    "snackReincarnation": [
+      "You were a rice grain that refused to stick with others. Solo till the end.",
+      "Lived once as a chapathi folded into itself  metaphorical and literal introversion.",
+      "A curd blob on a banana leaf, unnoticed by everyone, including fate.",
+      "You were a spoon used only once, then forgotten for days in the sink.",
+      "Your karma was as flat as the papadam you were never paired with."
+    ],
+    "snackDeath": [
+      "Faded into the background during a thali meal and ceased to exist.",
+      "You evaporated while being ignored  just like your ideas in group projects.",
+      "Choked on a watermelon seed while contemplating your life choices.",
+      "Drowned slowly in curd  a calm, cooling demise.",
+      "You were left behind on the plate. The waiter didn't even notice. Poof."
+    ]
+  },
+  "disgusted": {
+    "snacks": [
+      "Soggy Bajji",
+      "Spilled Rasam",
+      "Rotten Banana",
+      "Fermented Aviyal"
+    ],
+    "descriptions": [
+      "Soaked, sad, and tastes like regret and rainwater.",
+      "Liquid chaos served with broken dreams.",
+      "Soft in all the wrong places. Like trauma, but edible.",
+      "A fermented explosion of things that should never have met."
+    ],
+    "snackHoroscope": [
+      "Today, the moon is covered in old rasam. Avoid decisions involving liquids or trust.",
+      "Your chakras are clogged by soggy snacks. Spiritual detox via dry meals advised.",
+      "Everything you touch today may smell off. It's not them  it's your vibe.",
+      "Even the aviyal flinched today. Maybe take a break from existence.",
+      "A rotten banana will cross your path. Step over it. And your past."
+    ],
+    "snackReincarnation": [
+      "You were once a bajji that fell into dishwater. Still havent emotionally recovered.",
+      "In your past life, you were sambhar left out in the open overnight. Ants know your name.",
+      "You were a spoonful of spoiled curd served during an important family function.",
+      "Once lived as a leaking rasam packet in someones tiffin box. Their bag never forgave you.",
+      "You were the last aviyal in the fridge  born rotten, died forgotten."
+    ],
+    "snackDeath": [
+      "You inhaled a suspicious smell and never exhaled. Tragic yet deserved.",
+      "Bit into a greenish bajji. Passed away mid-munch. May your tastebuds rest.",
+      "Collapsed dramatically after identifying an unidentified object in your sambhar.",
+      "Consumed expired chutney in protest. Protest succeeded. You didnt.",
+      "Death by sniff. The banana was already black. You were warned."
+    ]
+  },
+  "surprised": {
+    "snacks": [
+      "Bursting Samosa",
+      "Unexpected Ice Cream",
+      "Chili Puffed Rice",
+      "Sudden Pappadam"
+    ],
+    "descriptions": [
+      "Cracked open with gossip and green peas inside.",
+      "Sweetness you never asked for  but kinda needed.",
+      "Crunchy chaos with a spicy plot twist.",
+      "Snapped under pressure, just like your weekend plans."
+    ],
+    "snackHoroscope": [
+      "A samosa will burst in your face  metaphorically or literally. Stay alert.",
+      "Jupiter brings spicy revelations today. Avoid puffed rice surprises.",
+      "The stars plan an ambush. Itll look like ice cream but itll taste like onion.",
+      "Today is a pappadam moment  loud, unexpected, and over quickly.",
+      "Embrace sudden snacks and sudden realizations. Even if they burn a little."
+    ],
+    "snackReincarnation": [
+      "You were a samosa filled with secrets. Once bitten, never trusted again.",
+      "Lived once as melted ice cream  confused about your own identity.",
+      "You were puffed rice that got into a fight with chili flakes. You lost.",
+      "Once reincarnated as pappadam used for ASMR videos. Fame came. Then crack.",
+      "You were the element of surprise on a banana leaf. Nobody saw you coming."
+    ],
+    "snackDeath": [
+      "You exploded in a microwave trying to reheat yourself. Classic overconfidence.",
+      "Slipped on your own melted form  death by drama and dairy.",
+      "Snapped in half mid-boast. Fell into chutney. Disappeared.",
+      "Over-sambhard yourself out of curiosity. You were not ready.",
+      "Got fried next to someone elses snack. Wrong place, wrong flame."
+    ]
+  }
+}
