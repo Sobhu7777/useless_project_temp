@@ -9,8 +9,8 @@
 
 
 ### Team Members
-- Team Lead: [A S SOBHRAJ] - [GEC Srekrishnapuram]
-- Member 2: [UVAIS J] - [GEC Srekrishnapuram]
+- Team Lead: [A S SOBHRAJ] - [GEC Sreekrishnapuram]
+- Member 2: [UVAIS J] - [GEC Sreekrishnapuram]
 
 ### Project Description
 [Thatukkada Mood Scanner is a quirky, Kerala-themed web app that detects your mood from a selfie using AI-powered face and emotion recognition. Based on your vibe, it serves up Text-To-Speech(TTsModel) over-the-top snack horoscopes, reincarnation predictions, and even dramatic snack death prophecies — all wrapped in a nostalgic thattukada aesthetic.]
@@ -19,7 +19,7 @@
 [People are walking around tragically unaware of what snack their mood truly embodies — a crisis in the making. Without proper snack-based prophecies, humanity risks eating the wrong vada at the wrong time, misinterpreting emotional chaya signals, and completely missing out on their spiritually destined thattukada fate. We’re here to fix the world’s most pointless, yet deeply urgent, snack–emotion alignment crisis.]
 
 ### The Solution (that nobody asked for)
-[We built Thatukkada Mood Scanner, the only app brave enough to combine cutting-edge AI emotion detection with completely unscientific snack prophecies. Using face detection and emotion analysis, our virtual thattukada legends — Rajettan and Shankaran Ammavan — judge your face harder than your auntie at a wedding. Then, with the wisdom of a thousand banana fritters, we deliver your Snack Horoscope, Snack Reincarnation, and Snack Death Prediction — all accompanied by overly dramatic TTS narration, tacky animations, and background music that feels like a tea shop in 1998.]
+[We built Thatukkada Mood Scanner, the only app brave enough to combine cutting-edge AI emotion detection with completely unscientific snack prophecies. Using face detection and emotion analysis, our virtual thattukada legend judge your face harder than your auntie at a wedding. Then, with the wisdom of a thousand banana fritters, we deliver your Snack Horoscope, Snack Reincarnation, and Snack Death Prediction — all accompanied by overly dramatic TTS narration, tacky animations, and background music that feels like a tea shop in 1998.]
 
 ## Technical Details
 ### Technologies/Components Used
@@ -45,11 +45,11 @@ npm install]
 [
 # Start backend server
 cd backend
-npm start
+npm run start
 
 # Start frontend server (in a new terminal)
 cd frontend
-npm start]
+npm  run dev]
 
 ### Project Documentation
 For Software: Frontend
@@ -58,7 +58,7 @@ React.js — UI and component architecture
 
 Bootstrap — Responsive styling and layout
 
-TensorFlow.js or Browser APIs — client-side face detection/emotion analysis
+face-api.js and Huggingface/transformers model for face and emotion detection
 
 Fetch/Axios — API calls to backend endpoints
 
@@ -77,25 +77,26 @@ Backend
 Technology
 Node.js + Express.js — Lightweight REST API server
 
-In-memory JSON files — Data source for snacks, horoscopes, reincarnation, death predictions
-
-Face Detection & Emotion Recognition — Implemented via TensorFlow.js backend or third-party API integration 
+In-memory JSON files — Data source for snacks, horoscopes, reincarnation, death predictions 
 
 
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Intro Screen](screenshots/Intro.png)
+*An Intro page to guide on what all the features of this app are and what all to do*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Home page](screenshots/Home.png)
+*Main interface where you upload your selfie or use the webcam to start the mood scanning journey.*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Detecting-Screen](screenshots/detecting.png)
+*This is the phase where your face is detected then passed onto two models for emotion detection*
+
+![Result page](screenshots/detecting.png)
+*Here goes our TTS where thatukadda karan and ammavan discuss your fate maybe even fight over it(PS-: the TTS model needs permission when you run backend and reach the result page you will se console message for backend that you need permision from API key owners so when that appears pls do contact us only then it works as it groq's policy)*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Workflow](screenshots/workflow.svg)
+*This diagram shows the entire Thatukkada Mood Scanner journey — starting from the nostalgic intro, moving to the home screen for image input, then to the dual-personality detection screen (face-api.js and Huggingface model), followed by the TTsModel’s dramatic mood reveal(dual personality Thatukadda karan and random ammavan ), and finally the snack prophecy pages powered by food_list.json*
 
 For Hardware:
 
