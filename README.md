@@ -91,7 +91,7 @@ In-memory JSON files — Data source for snacks, horoscopes, reincarnation, deat
 ![Detecting-Screen](screenshots/detecting.png)
 *This is the phase where your face is detected then passed onto two models for emotion detection*
 
-![Result page](screenshots/detecting.png)
+![Result page](screenshots/Result.png)
 *Here goes our TTS where thatukadda karan and ammavan discuss your fate maybe even fight over it(PS-: the TTS model needs permission when you run backend and reach the result page you will se console message for backend that you need permision from API key owners so when that appears pls do contact us only then it works as it groq's policy)*
 
 # Diagrams
